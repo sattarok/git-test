@@ -39,3 +39,11 @@
     border: solid 1px brown;
     margin: 0 auto;
 }
+
+.bl-bottom h2 {
+    background-color: darkseagreen;
+    padding: 25px;
+    font-size: 22px;
+    text-align: center;
+    color: dimgrey;
+}
