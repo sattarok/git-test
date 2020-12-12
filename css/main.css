@@ -1,5 +1,5 @@
 .main {
-    width: 960px;
+    width: 100%;
 }
 
 .bl-top {
@@ -7,5 +7,25 @@
     width: 600px;
     height: 20px;
     background-color: #000;
+    margin: 0 auto;
+    border: solid 1px #000;
+}
+
+.bl-center {
+    width: 600px;
+    height: 200px;
+    margin: 0 auto;
+    border: solid 1px #000;
+}
+
+.bl-center p {
+    text-align: center;
+}
+
+.bl-bottom {
+    width: 600px;
+    height: 20px;
+    background-color: brown;
+    border: solid 1px brown;
     margin: 0 auto;
 }
