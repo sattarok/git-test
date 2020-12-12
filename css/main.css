@@ -1,0 +1,11 @@
+.main {
+    width: 960px;
+}
+
+.bl-top {
+    content: '';
+    width: 600px;
+    height: 20px;
+    background-color: #000;
+    margin: 0 auto;
+}
